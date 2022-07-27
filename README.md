@@ -1,6 +1,6 @@
 # QR-Code-Generator
 
-When you enter the required inputs, it saves your QR code to the location where QR Code Generator.py is.
+When you enter the required inputs, it saves your QR code as QR.png in the location where QR Code Generator.py is located.
 
 ### Example
 
