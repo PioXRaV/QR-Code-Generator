@@ -4,7 +4,7 @@ When you enter the required inputs, it saves your QR code as QR.png in the locat
 
 ### Example
 
-<img width=128 src="https://media.discordapp.net/attachments/872416298615857182/1001788960885977118/QR.png"/>
+<img width=128 src="https://cdn.discordapp.com/attachments/872416298615857182/1067203179806208060/QR.png"/>
 
 ### Required modules
 
